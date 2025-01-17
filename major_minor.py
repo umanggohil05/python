@@ -6,3 +6,5 @@ def major_minor():
         print("You have become major ,now.")
 
 major_minor()
+major_minor()
+
