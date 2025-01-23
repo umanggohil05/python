@@ -1,7 +1,5 @@
-number = int(input("Enter a number: "))
-
-if number % 10 == 0:
-    print("Yes, divisible by 10")
+a=int(input("Enter the number"))
+if(a%10)==0:
+    print("Number is divisibal by 10")
 else:
-    print("No, not divisible by 10")
-
+    print("Number is not divisibal by 10")
